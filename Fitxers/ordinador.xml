@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="21.0.1" class="java.beans.XMLDecoder">
+ <object class="com.mycompany.carreon.benites.erica.mp06.uf01.xml.ordinadors.Ordinador">
+  <void property="discDur">
+   <int>512</int>
+  </void>
+  <void property="marca">
+   <string>Dell</string>
+  </void>
+  <void property="memoria">
+   <int>16</int>
+  </void>
+  <void property="model">
+   <string>XPS 13</string>
+  </void>
+  <void property="numSerie">
+   <string>12345ABC</string>
+  </void>
+  <void property="processador">
+   <string>Intel i7</string>
+  </void>
+ </object>
+</java>
